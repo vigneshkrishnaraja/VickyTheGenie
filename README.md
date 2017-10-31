@@ -1,5 +1,5 @@
 # VickyTheGenie
-VICKY GENIE is a tool that allows users to assemble a Graphical User Interface without writing code.  It allows the user to change the properties of the components.<br />
+VICKY The GENIE is a tool that allows users to assemble a Graphical User Interface without writing code.  It allows the user to change the properties of the components.<br />
 The following components are available in the tool:<br />
 JButton<br />
 JTextField<br />
